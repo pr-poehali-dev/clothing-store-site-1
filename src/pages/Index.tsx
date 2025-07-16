@@ -14,7 +14,7 @@ const ClothingStore = () => {
       price: "2,990 ₽",
       originalPrice: "3,990 ₽",
       category: "Мужская",
-      image: "/img/d58f759e-d544-43e2-8047-52e6f5c472dd.jpg",
+      image: "/img/445c114f-cc98-4b70-a3e2-54940830a071.jpg",
       sizes: ["XS", "S", "M", "L", "XL"],
       colors: ["Черный", "Белый", "Серый"],
       discount: "-25%"
@@ -25,7 +25,7 @@ const ClothingStore = () => {
       price: "5,490 ₽",
       originalPrice: "",
       category: "Женская",
-      image: "/img/cf536c5a-1caa-4a73-b912-baff5ee64348.jpg",
+      image: "/img/ae6acf6f-aa15-4c4f-9831-4e796c7cda17.jpg",
       sizes: ["XS", "S", "M", "L"],
       colors: ["Розовый", "Синий", "Черный"],
       discount: ""
@@ -47,7 +47,7 @@ const ClothingStore = () => {
       price: "3,290 ₽",
       originalPrice: "",
       category: "Женская",
-      image: "/img/cf536c5a-1caa-4a73-b912-baff5ee64348.jpg",
+      image: "/img/ae6acf6f-aa15-4c4f-9831-4e796c7cda17.jpg",
       sizes: ["XS", "S", "M", "L"],
       colors: ["Белый", "Бежевый", "Голубой"],
       discount: ""
@@ -58,7 +58,7 @@ const ClothingStore = () => {
       price: "3,790 ₽",
       originalPrice: "4,990 ₽",
       category: "Мужская",
-      image: "/img/d58f759e-d544-43e2-8047-52e6f5c472dd.jpg",
+      image: "/img/445c114f-cc98-4b70-a3e2-54940830a071.jpg",
       sizes: ["S", "M", "L", "XL"],
       colors: ["Серый", "Черный", "Темно-синий"],
       discount: "-24%"
@@ -69,7 +69,7 @@ const ClothingStore = () => {
       price: "7,990 ₽",
       originalPrice: "",
       category: "Женская",
-      image: "/img/cf536c5a-1caa-4a73-b912-baff5ee64348.jpg",
+      image: "/img/ae6acf6f-aa15-4c4f-9831-4e796c7cda17.jpg",
       sizes: ["XS", "S", "M", "L"],
       colors: ["Черный", "Красный", "Темно-синий"],
       discount: ""
